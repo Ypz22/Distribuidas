@@ -3,4 +3,9 @@ COMPLETAR:
 - /models/Book.js  (No usar consultas sino store procedures)
     - SELECT * FROM sp_bucar_por_id(?)
 
-CONTROLLER:
+- Crear el Metodo - Funcion - ETC que permita buscar un autor dado el nombre o apellido o un fragmento de la palabra, validar mayusculas, minusculas ** 
+    - roger
+    - ROGER
+    - Roger
+    - RoGer
+    - oger

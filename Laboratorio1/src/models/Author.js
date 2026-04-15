@@ -2,7 +2,7 @@ const db = require('../config/db')
 
 const Author = {
     findAll: async () => {
-        const [rows] = await db.query('SELECT * FROM athor')
+        const [rows] = await db.query('SELECT * FROM author')
         return rows
     },
 
