@@ -1,0 +1,6 @@
+COMPLETAR: 
+- CRUD de Book
+- /models/Book.js  (No usar consultas sino store procedures)
+    - SELECT * FROM sp_bucar_por_id(?)
+
+CONTROLLER:
